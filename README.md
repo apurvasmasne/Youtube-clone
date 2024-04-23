@@ -1,1 +1,1 @@
-# Youtube-clone using HTML, CSS JS and Bootstraps
+# Youtube-clone using HTML, CSS, JS and Bootstraps
